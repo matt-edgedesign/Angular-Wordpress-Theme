@@ -10,6 +10,13 @@ Author URI: http://ifelse.co.uk/
 /*************************************
  +Containers
  *************************************/
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
  
 body {
 	color: #ffffff;
